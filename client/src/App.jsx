@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import { hot } from 'react-hot-loader';
 import Select from 'react-select';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Info from './Components/info.jsx'
 
 const techCompanies = [
   { label: "Japanese", value: 1 },
